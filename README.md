@@ -11,7 +11,7 @@
 
 </div>
 
-This is the official implementation of our **TNNLS 2023** paper.
+This is the official implementation of our **TNNLS 2023** paper. [[Paper]](https://ieeexplore.ieee.org/document/10097456) [[PDF]](./assests/final.pdf) </br>
 
 ## Publication
 
@@ -20,7 +20,7 @@ Zhicheng Zhang, Song Chen, Zichuan Wang, Jufeng Yang<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</i>.
 </br>
 
-[[Paper]](https://ieeexplore.ieee.org/document/10097456) [[PDF]](./assests/final.pdf) </br>
+
 
 
 
