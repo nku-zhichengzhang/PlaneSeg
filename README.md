@@ -16,6 +16,7 @@ This is the official implementation of our **TNNLS 2023** paper.
 ## Publication
 
 >**PlaneSeg: Building a Plug-in for Boosting Planar Region Segmentation**<br>
+Zhicheng Zhang, Song Chen, Zichuan Wang, Jufeng Yang<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</i>.
 </br>
 
