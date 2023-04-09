@@ -15,10 +15,10 @@ This is the official implementation of our **TNNLS 2023** paper.
 
 ## Publication
 
-**PlaneSeg: Building a Plug-in for Boosting Planar Region Segmentation**<br>
+>**PlaneSeg: Building a Plug-in for Boosting Planar Region Segmentation**<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</i>.
 </br>
-[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097456) [[PDF]](./assests/final.pdf) </br>
+[[Paper]](https://ieeexplore.ieee.org/document/10097456) [[PDF]](./assests/final.pdf) </br>
 
 
 
@@ -114,11 +114,14 @@ If you find this repo useful in your project or research, please consider citing
 
 **Bibtex Citation**
 ````
-@article{Zhang2023PlaneSeg,
-  title={PlaneSeg: Building a Plug-in for Boosting Planar Region Segmentation},
+@ARTICLE{Zhang2023PlaneSeg,
   author={Zhang, Zhicheng and Chen, Song and Wang, Zichuan and Yang, Jufeng},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={PlaneSeg: Building a Plug-In for Boosting Planar Region Segmentation}, 
   year={2023},
-  publisher={IEEE}
-}
+  volume={},
+  number={},
+  pages={1-15},
+  }
+
 ````
