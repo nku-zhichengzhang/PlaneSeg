@@ -98,7 +98,7 @@ python eval_fps_ours.py
 
 <div align=center><img src="./assests/seg.jpg" width="80%"></div>
 
-2. Depth Prediction: run `evaluate_PlaneSeg.py` and extract the npy files with the name of `{idx}_segmentation_0_final.png`. Then, the npy files can be visualized as the script of [`ply2png.py`](./scripts/ply2png.py).
+2. Depth Prediction: run `evaluate_PlaneSeg.py` and extract the npy files with the name of `{idx}_segmentation_0_final.png`. Then, the npy files can be visualized as the script of [`npy2png.py`](./scripts/npy2png.py).
 
 <div align=center><img src="./assests/dep.jpg" width="50%"></div>
 
