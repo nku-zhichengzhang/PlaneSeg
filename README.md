@@ -11,14 +11,14 @@
 
 </div>
 
-This is the official implementation of our **TNNLS 2023** paper. [[Paper]](https://ieeexplore.ieee.org/document/10097456) [[PDF]](./assests/final.pdf) </br>
+This is the official implementation of our **TNNLS 2023** paper.  </br>
 
 ## Publication
 
 >**PlaneSeg: Building a Plug-in for Boosting Planar Region Segmentation**<br>
 Zhicheng Zhang, Song Chen, Zichuan Wang, Jufeng Yang<br>
-<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</i>.
-</br>
+<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</i>.</br>
+[[Paper]](https://ieeexplore.ieee.org/document/10097456) [[PDF]](./assests/final.pdf)</br>
 
 
 
